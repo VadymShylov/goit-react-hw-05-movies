@@ -1,0 +1,12 @@
+.siteNav {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.siteNav:not(:last-child) {
+  margin-right: 40px;
+}
+
+.activeSiteNav {
+  color: tomato;
+}
