@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/76.bdb7c179.chunk.css","mappings":"AAAA,uBACE,eAAgB,CAChB,eACF,CAEA,2BACE,aACF","sources":["components/Cast/Cast.module.css"],"sourcesContent":[".castImage {\n  margin-top: 30px;\n  max-width: 150px;\n}\n\n.castListTitle {\n  margin: 10px 0;\n}\n"],"names":[],"sourceRoot":""}
